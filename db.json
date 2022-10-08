@@ -1,6 +1,11 @@
 {
   "user": [
-    
+    {
+      "name":"saurabh",
+      "score":6,
+      "id":1
+
+    }
   ]
 
 }
